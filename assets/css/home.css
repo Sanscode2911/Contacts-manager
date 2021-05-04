@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin:0px;
+    margin-top:10%;
+}
+#page-header{
+    color: gray;
+}
+ul{
+    list-style-type: none;
+    
+    margin:30%;
+    margin-top:0px;
+}
+li{
+    background-color: rgb(0, 153, 255);
+    margin-bottom: 2px;
+}
+form{
+    margin-top: 0%;
+}
